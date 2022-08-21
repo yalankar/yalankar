@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-21T09:36:46.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="7JHHUl_2ohvXc1eUsreP" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-21T09:37:44.125Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Kk7c4rSwhCcOluvkdEEg" version="20.2.5" type="github">
   <diagram id="WF_MYyC285SqqOINv5_H" name="Page-1">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -18,7 +18,7 @@
         </mxCell>
         <mxCell id="cMcfpRcbYdyl4qeZcQNI-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="560" as="sourcePoint" />
+            <mxPoint x="400" y="480" as="sourcePoint" />
             <mxPoint x="400" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="cMcfpRcbYdyl4qeZcQNI-22" value="5. There is a Hardware Limit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="440" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cMcfpRcbYdyl4qeZcQNI-23" value="What we need is best of both." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="520" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
