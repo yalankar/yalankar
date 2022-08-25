@@ -1,1 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T07:29:04.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="rOVVvuHwyWbId89Vq-n2" version="20.2.7" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">1VhZc+I4EP41VGUeSPnABh45kjB7VXZyz8uUYgusipA8srj212/Llm87BGZDsi+J+7PcLXV/fYiOPVlurwQKgz+5j2nHMvxtx552LMs07AH8U8hOI/2ekSALQXyN5cAN+Qenn2p0RXwclRZKzqkkYRn0OGPYkyUMCcE35WVzTstWQ7TANeDGQ7SOPhBfBgk6sPo5PsNkEaSWTXeYvFmidLE+SRQgn28KkH3RsSeCc5k8LbcTTJX3Ur88fN090D9e3Kvf/o5+orvx77d/3XcTZZeHfJIdQWAmj1bd613fD9cXDr2/fRr+2Pp3LBrpT4w1oivtr47lUjAyfoaHhXqA/2gZwgOtSxOBkSScIWXoGkmJBctWlL9OJa3lsqA/dq7cpRGTeKvwQC4pACY8RlLwFzzhlAtAGGewcjwnlFYgRMmCgeiBnzDg4zUWkgAXRvrFkvi+MjPeBETimxB5yuYGqA+Y4CvmY+UtI9vWXp/r2ChDeFtgnI7BFeZLLMUOlui3afrofOqaZk+n2CanpznQq4ICNW2NIZ0Ri0x3HnV40IE/gARmKwkCM43SDWELiiVnhRDmb//DGEYQFLAFgJNLtxwCNO1aRkvoOPh/TuPkDCDEmJ0snLZbi6fTEE+rIZ7Oe8XTbo1nWIqS+3Olatd4icSCgMtGRrjNxK5UPh/1YkiFs6uza5RlV66hUCvKxaOJNs/V1YCFVSwQaqtpN0ntmO0mDzkaxXOZna2usqsczCKJGHBMcW4Ef5tO8ql2naqElGGNWp+R97KIs6LrJTk3ig9KJIH63axyrDo4ll+1N86+tDsjsVvhgXg91pWqUS3XMQWzqp6cv5jrqnyoKsKZ1IOHaWn5Ei0JVTk5w3SNldZyOXq3emBV64Hh1uuBZTTUg+F71QOnVg8mlKhzV/1/Av+YhlP1j2PX66V5ynrpNtTLimcw80dqGAWJh3F7Kfiq3GnwlshH/UY9Pyn83NHSdFtYNt2lAvMvYy4f0asivhIe3h9+7JcG5XqECv53XnG/wBRmvnV5vG6KibZwzYmiWkqA7GKQEmA4GJR1JAfSnxUH2oqmhlSrjkgSKieWNVUxS7KT/8LgZNWYQ+Ygn5W6xzR+Y7AVpV86/VdqY2vljkeebpTMPKr+hgK39YCOZQ/L9baxMKdAtGNeIDiD8uk39eiz2hcyIFHTyk9zto9wo8Bypa4+BsOb5lEn75nQRD/UTf1pg30FGphGMWU/SSDr3m1ybZ5rjYc68GICO/PdZ9dxO+XbCeDz+dzyvPpAcuQl86RTyDCtjPuGkOym8itddoYfPUfM0Oo7f4hmFut9u3tpvGW2d1l9G/RRFGTeam+5DDb4mPdZJT6lLVgJedeNpbTtNjbGt8cj6S77LmIf1Wh7Zq+FA4c22p5b1TR4tz7bSJ16mz39gKYZZp4bhlvkmHFuWsM9PIulaywIOELdnFtnvqOpuHcItP8PlHVqZat/JGWd2s8yhvs2zgKL0K6wLFQLolf2XLdk2YfuzXEraZPs4o1JBGL+K3SyPP8x3774Fw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-25T07:30:40.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="3Dz1RhBst899uEGlEJ_V" version="20.2.7" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1038" dy="1740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="44PV9vE5lVTY9_xdUnsA-0" value="&lt;b&gt;&amp;lt;&amp;lt;Creational Pattern&amp;gt;&amp;gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="-1148" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="44PV9vE5lVTY9_xdUnsA-1" value="&lt;h1&gt;Singleton&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="360" y="-1158" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="44PV9vE5lVTY9_xdUnsA-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Singleton&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- instance : Singleton&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ getInstance(): Singleton&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="-1005" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="44PV9vE5lVTY9_xdUnsA-5" value="Client" style="html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="105" y="-990" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="44PV9vE5lVTY9_xdUnsA-6" value="" style="endArrow=open;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="44PV9vE5lVTY9_xdUnsA-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="-925" as="sourcePoint" />
+            <mxPoint x="320" y="-967" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44PV9vE5lVTY9_xdUnsA-12" value="if (instance == null){&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;b&gt;synchronized&lt;/b&gt;(&lt;b&gt;this&lt;/b&gt;){&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;b&gt;return new&lt;/b&gt; Singleton()&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;}&lt;br&gt;} else {&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;b&gt;return &lt;/b&gt;instance&lt;br&gt;}" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="-867" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HeXc5rHauZoWsH2n4RUk-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="44PV9vE5lVTY9_xdUnsA-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="-867" as="sourcePoint" />
+            <mxPoint x="464" y="-917" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeXc5rHauZoWsH2n4RUk-2" value="" style="endArrow=open;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1.006;entryY=0.129;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="44PV9vE5lVTY9_xdUnsA-3" target="44PV9vE5lVTY9_xdUnsA-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="-907" as="sourcePoint" />
+            <mxPoint x="560" y="-997" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="-960" />
+              <mxPoint x="560" y="-993" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5lQRJaeXkiBHERpdnjex-0" value="&lt;strong style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(68, 68, 68); font-family: &amp;quot;PT Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Singleton&lt;/strong&gt;&lt;span style=&quot;color: rgb(68, 68, 68); font-family: &amp;quot;PT Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;is a creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this&amp;nbsp;instance.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="-1100" width="730" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
