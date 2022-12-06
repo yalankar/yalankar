@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T17:34:20.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="zgwXbxszTZmtXaLj9ULO" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-06T17:37:57.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="D1hOBOy_5zhczGw0OBll" type="github" pages="4">
   <diagram id="_QaIJ1f8_quKXL8q4v3G" name="Context (C1)">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -169,7 +169,7 @@
         <mxCell id="KtV8SAtcUMUfTQtTzMUy-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KtV8SAtcUMUfTQtTzMUy-1" target="KtV8SAtcUMUfTQtTzMUy-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KtV8SAtcUMUfTQtTzMUy-1" value="API GW&lt;br&gt;Spring Cloud Gateway/AWS API Gateway" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+        <mxCell id="KtV8SAtcUMUfTQtTzMUy-1" value="Spring Cloud Gateway&lt;br&gt;(or) AWS API Gateway&lt;br&gt;(or) Zuul Gateway" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
           <mxGeometry x="460" y="50" width="50" height="420" as="geometry" />
         </mxCell>
         <mxCell id="KtV8SAtcUMUfTQtTzMUy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.02;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KtV8SAtcUMUfTQtTzMUy-2" target="KtV8SAtcUMUfTQtTzMUy-1">
@@ -186,6 +186,7 @@
             <mxPoint x="680" y="130" as="sourcePoint" />
             <mxPoint x="730" y="80" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="600" y="90" />
               <mxPoint x="690" y="20" />
             </Array>
           </mxGeometry>
@@ -326,6 +327,12 @@
         </mxCell>
         <mxCell id="KtV8SAtcUMUfTQtTzMUy-53" value="MySQL/AuroraDB&lt;br&gt;User and Roles&amp;nbsp;&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;shadow=0;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="765" y="360" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z47yTKuGYYShuw4YuRKk-1" value="SAML" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z47yTKuGYYShuw4YuRKk-2" value="API GW" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="232" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
